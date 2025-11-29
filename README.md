@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br><br>I am actively working on enhancing my full-stack development skills by building real-world projects. Currently, I’m developing an E-Commerce Website using the MERN stack, where I’m focusing on creating secure authentication, scalable backend architecture, and a clean user interface.<br>Alongside this, I’m refining and expanding my earlier projects such as the Tours & Travel Website and Hotel Management System, ensuring they follow better coding practices and modern design principles.<br><br>🤝 I’m looking to collaborate on<br><br>I am open to collaborating on web development projects, especially those involving:<br><br>MERN stack (MongoDB, Express, React, Node.js)<br><br>Java-based applications<br><br>PHP-based websites<br><br>UI/UX improvement projects<br>I enjoy team environments and would love to work with developers who are building impactful and meaningful applications, especially in the area of automation, education, and e-commerce.<br><br>🧠 I’m looking for help with<br><br>I’m looking for guidance in:<br><br>Advanced MERN concepts such as optimized API development, JWT authentication, and performance optimization<br><br>System design and structuring large applications<br><br>Improving my knowledge of deploying full-stack applications on platforms like AWS, Render, or Vercel<br>Any mentorship or suggestions in these areas would help strengthen my development journey.<br><br>🌱 I’m currently learning<br><br>I am continuously expanding my knowledge in:<br><br>Full-Stack Development (MERN) — focusing deeply on backend logic, REST APIs, and React components<br><br>Advanced Core Java — especially OOP design, JDBC, and application development<br><br>Database optimization using both MySQL and MongoDB<br><br>Frontend frameworks and improving UI responsiveness<br>This learning helps me build better, faster, and cleaner applications.<br><br>💬 Ask me about<br><br>Feel free to ask me about:<br><br>Web development using HTML, CSS, JavaScript, PHP, and React<br><br>Programming fundamentals in C++ and Java<br><br>Database management and designing schemas in MySQL and MongoDB<br><br>My projects:<br>• Tours & Travel Website<br>• Hotel Management System (Java + MySQL)<br>• E-Commerce MERN Website<br><br>My certifications from Google, IIT Bombay, and Certiport<br><br>I enjoy discussing technical problems, project ideas, and development concepts.<br><br>⚡ Fun fact<br><br>I love playing chess, especially strategy-based matches that require long-term planning.<br>I also enjoy traveling, exploring new cities, and learning about different cultures — it keeps me inspired, creative, and curious in my development journey.
 
-<!--
-**raushanaman/raushanaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aman Raushan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_raushan.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman Raushan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Edward_Aman2001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanraushan0@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raushanaman&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=raushanaman&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raushanaman&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raushanaman&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=raushanaman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=raushanaman&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
